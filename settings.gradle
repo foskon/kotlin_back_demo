@@ -1,0 +1,4 @@
+rootProject.name = 'fullstack'
+include 'back'
+include 'main'
+
